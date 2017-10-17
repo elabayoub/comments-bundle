@@ -6,7 +6,7 @@
  * @license For full copyright and license information view LICENSE file distributed with this source code.
  * @version //autogentag//
  */
-
+//test
 namespace EzSystems\CommentsBundle\Comments\Provider;
 
 use eZ\Publish\API\Repository\Values\Content\ContentInfo;
